@@ -10,3 +10,4 @@ archives:
 dockers:
   - image_templates:
       - nasa9084/goreleaser-playground
+      - gchr.io/nasa9084/goreleaser-playground
